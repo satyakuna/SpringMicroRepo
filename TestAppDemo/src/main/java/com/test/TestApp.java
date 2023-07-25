@@ -6,6 +6,7 @@ public class TestApp {
 		// TODO Auto-generated method stub
 		int id=101;
 		String name="abc";
+		String colour="default";
 
 		System.out.println("hello");
 
